@@ -1,0 +1,9 @@
+main
+vfizzbuzz
+*.so
+*.dylib
+*.dll
+
+*.exe
+.idea
+*.iml
